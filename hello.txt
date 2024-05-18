@@ -19,4 +19,5 @@ hahahaha git
 git2 hello git
 hajima git
 git1 hello git
+git2 git
 git1 git
